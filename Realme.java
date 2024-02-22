@@ -3,7 +3,7 @@ public class Realme implements Phone {
     private int volume;
     private boolean isPowerOn;
 
-    public Xiaomi() {
+    public Realme() {
         
         this.volume = 50;
     }
